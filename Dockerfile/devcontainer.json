@@ -1,0 +1,6 @@
+{
+    "name": "Ubuntu with R",
+    "image": "rocker/tidyverse:latest",
+    "features": {},
+    "postCreateCommand": "Rscript setup.R"
+}
